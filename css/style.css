@@ -58,6 +58,7 @@ li button{
     font-weight: 500;
     font-size: 24px;
     color: #E5E5E5;
+    border: none;
 }
 ul li:first-child{
     color: #FFFFFF;
@@ -91,6 +92,7 @@ p{
     font-weight: 500;
     font-size: 36px;
     color: #E5E5E5;
+    border: none;
 }
 img{
     width: 851px;
